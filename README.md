@@ -25,5 +25,5 @@ Once your project has run you will have a `target/timeline/timeline.html` in the
 
 ## Building
 
-Build time requirement is Java 11+ and recent Maven (3.9+ recommended).
+Build time requirement is Java 17+ and recent Maven (3.9+ recommended).
 Runtime Java requirement is Java 8+.
